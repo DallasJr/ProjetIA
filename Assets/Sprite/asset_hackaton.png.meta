@@ -661,27 +661,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      asset_hackaton_0: -8139362602881049611
-      asset_hackaton_1: -1525384960618612679
-      asset_hackaton_10: -6551935609354407273
-      asset_hackaton_11: -8777277255474784157
-      asset_hackaton_12: 8653847764878266082
-      asset_hackaton_13: 5778367750250586275
-      asset_hackaton_14: 2453218110478094665
-      asset_hackaton_15: 6430500845766793343
-      asset_hackaton_16: -1546406636500503021
-      asset_hackaton_17: 1575285438964220496
-      asset_hackaton_18: -6394007637435615246
-      asset_hackaton_19: 3921206350247462892
-      asset_hackaton_2: -439000883336612173
-      asset_hackaton_3: 8277413991857933100
-      asset_hackaton_4: -2709517641340841156
-      asset_hackaton_5: -8182221575267934835
-      asset_hackaton_6: -1667405461284709998
-      asset_hackaton_7: -6504715423904051024
-      asset_hackaton_8: -5521724856084372278
-      asset_hackaton_9: 1777764711443117913
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
