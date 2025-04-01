@@ -33,6 +33,6 @@ public class Bow : MonoBehaviour
 
         // Ajouter une force pour lancer la flèche
         Rigidbody2D rb = arrow.GetComponent<Rigidbody2D>();
-        rb.velocity = direction * arrowSpeed;  // Utiliser velocity et non linearVelocity
+        rb.linearVelocity = direction * arrowSpeed;  // Utiliser velocity et non linearVelocity
     }
 }

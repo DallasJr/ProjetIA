@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      asset_bottle_hackaton_0: 987201148801364866
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

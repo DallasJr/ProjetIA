@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      asset_player_hackaton_0: 4355707063969638890
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
