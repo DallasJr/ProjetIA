@@ -16,11 +16,12 @@ public class Arrow : MonoBehaviour
         {
             if (gameManager != null)
             {
+                Destroy(other.gameObject); // Détruit le déchet
+                Destroy(gameObject); // Détruit la flèche
                 gameManager.IncreaseScore(); // Augmente le score
             }
 
-            Destroy(other.gameObject); // Détruit le déchet
-            Destroy(gameObject); // Détruit la flèche
+
         }
     }
 }
